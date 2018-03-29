@@ -1,7 +1,7 @@
 package okcoin
 
 import (
-	. "github.com/nntaoli-project/GoEx"
+	. "github.com/jianmei1987/GoEx"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"testing"

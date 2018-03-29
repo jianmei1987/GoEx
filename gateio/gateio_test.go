@@ -1,7 +1,7 @@
 package gateio
 
 import (
-	"github.com/nntaoli-project/GoEx"
+	"github.com/jianmei1987/GoEx"
 	"net/http"
 	"testing"
 )

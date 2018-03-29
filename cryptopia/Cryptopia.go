@@ -2,7 +2,7 @@ package cryptopia
 
 import (
 	"errors"
-	. "github.com/nntaoli-project/GoEx"
+	. "github.com/jianmei1987/GoEx"
 	//"log"
 	"net/http"
 	"time"
